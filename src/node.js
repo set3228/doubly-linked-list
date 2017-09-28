@@ -4,6 +4,7 @@ class Node {
         this.prev = prev;
         this.next = next;
     }
+    
 }
 
 module.exports = Node;
